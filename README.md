@@ -1,49 +1,47 @@
-Metasploit [![Build Status](https://travis-ci.org/rapid7/metasploit-framework.svg?branch=master)](https://travis-ci.org/rapid7/metasploit-framework) [![Code Climate](https://img.shields.io/codeclimate/github/rapid7/metasploit-framework.svg)](https://codeclimate.com/github/rapid7/metasploit-framework) [![Docker Pulls](https://img.shields.io/docker/pulls/metasploitframework/metasploit-framework.svg)](https://hub.docker.com/r/metasploitframework/metasploit-framework/)
+Metasploit [! [Estado de compilación] (https://travis-ci.org/rapid7/metasploit-framework.svg?branch=master)] (https://travis-ci.org/rapid7/metasploit-framework) [! [Code Climate] (https://img.shields.io/codeclimate/github/rapid7/metasploit-framework.svg)] (https://codeclimate.com/github/rapid7/metasploit-framework) [! [Docker Pulls] ] (https://img.shields.io/docker/pulls/metasploitframework/metasploit-framework.svg)] (https://hub.docker.com/r/metasploitframework/metasploit-framework/)
 ==
-The Metasploit Framework is released under a BSD-style license. See
-COPYING for more details.
+El Metasploit Framework se lanza bajo una licencia de estilo BSD. Ver
+COPIA para más detalles.
 
-The latest version of this software is available from: https://metasploit.com
+La última versión de este software está disponible en: https://metasploit.com
 
-Bug tracking and development information can be found at:
- https://github.com/rapid7/metasploit-framework
+El seguimiento de fallos y la información de desarrollo se pueden encontrar en:
+ https://github.com/rapid7/metasploit-framework
 
-New bugs and feature requests should be directed to:
-  https://r-7.co/MSF-BUGv1
+Los nuevos errores y las solicitudes de funciones se deben dirigir a:
+  https://r-7.co/MSF-BUGv1
 
-API documentation for writing modules can be found at:
-  https://rapid7.github.io/metasploit-framework/api
+La documentación de API para escribir módulos se puede encontrar en:
+  https://rapid7.github.io/metasploit-framework/api
 
-Questions and suggestions can be sent to: Freenode IRC channel or e-mail the metasploit-hackers mailing list
+Las preguntas y sugerencias se pueden enviar a: canal IRC de Freenode o enviar un correo electrónico a la lista de correo de metasploit-hackers
 
-Installing
---
+Instalación
+-
 
-Generally, you should use [the free installer](https://github.com/rapid7/metasploit-framework/wiki/Nightly-Installers),
-which contains all of the dependencies and will get you up and running with a
-few clicks. See the [Dev Environment Setup](https://r-7.co/MSF-DEV) if
-you'd like to deal with dependencies on your own.
+En general, debe usar [el instalador gratuito] (https://github.com/rapid7/metasploit-framework/wiki/Nightly-Installers),
+que contiene todas las dependencias y lo pondrá en marcha con un
+pocos clics. Consulte la [Configuración del entorno Dev] (https://r-7.co/MSF-DEV) si
+le gustaría tratar con las dependencias por su cuenta.
 
-Using Metasploit
---
-Metasploit can do all sorts of things. The first thing you'll want to do
-is start `msfconsole`, but after that, you'll probably be best served by
-reading [Metasploit Unleashed][unleashed], the [great community
-resources](https://metasploit.github.io), or the [wiki].
+Usando Metasploit
+-
+Metasploit puede hacer todo tipo de cosas. Lo primero que querrás hacer
+es iniciar `msfconsole`, pero después de eso, probablemente será mejor empezar
+leyendo [Metasploit Unleashed] [unleashed], la [gran comunidad
+recursos] (https://metasploit.github.io), o la [wiki].
 
-Contributing
---
-See the [Dev Environment Setup][wiki-devenv] guide on GitHub, which will
-walk you through the whole process from installing all the
-dependencies, to cloning the repository, and finally to submitting a
-pull request. For slightly more information, see
-[Contributing](https://github.com/rapid7/metasploit-framework/blob/master/CONTRIBUTING.md).
+Contribuyendo
+-
+Consulte la guía [Dev Environment Setup] [wiki-devenv] en GitHub, que le
+guiará a través de todo el proceso desde la instalación de todas las
+dependencias, a la clonación del repositorio, y finalmente a la presentación de una
+poll request. Para obtener un poco más de información, consulte
+[Contribuir] (https://github.com/rapid7/metasploit-framework/blob/master/CONTRIBUTING.md).
 
 
 [wiki]: https://github.com/rapid7/metasploit-framework/wiki
 [wiki-devenv]: https://github.com/rapid7/metasploit-framework/wiki/Setting-Up-a-Metasploit-Development-Environment "Metasploit Development Environment Setup"
 [wiki-start]: https://github.com/rapid7/metasploit-framework/wiki/ "Metasploit Wiki"
-[wiki-usage]: https://github.com/rapid7/metasploit-framework/wiki/Using-Metasploit "Using Metasploit"
-[unleashed]: https://www.offensive-security.com/metasploit-unleashed/ "Metasploit Unleashed"
-
-
+[uso de wiki]: https://github.com/rapid7/metasploit-framework/wiki/Using-Metasploit "Uso de Metasploit"
+[desatado]: https://www.offensive-security.com/metasploit-unleashed/ "Metasploit Unleashed"
